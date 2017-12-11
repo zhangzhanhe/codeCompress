@@ -3,7 +3,7 @@
 
 项目开发环境win7,python3.5.2,nodejs8.8.1
 
-压缩部分用到的nodejs插件spt：https://github.com/fouber/spt，自行安装！
+压缩部分用到的nodejs插件spt(请自行安装):https://github.com/fouber/spt
 
 项目适用场景：老代码，未采用任何构建工具，只需要自动更新静态资源版本号，以及压缩css和js资源文件（图片由于spt不支持高版本的nodejs，所以无法压缩图片）！
 
